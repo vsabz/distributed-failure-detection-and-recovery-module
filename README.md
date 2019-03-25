@@ -1,4 +1,4 @@
-# distributed-failure-detection-and-recovery-module
+# Distributed Failure Detection and Failure Recovery
 
 ## About
 
