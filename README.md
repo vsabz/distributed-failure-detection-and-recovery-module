@@ -2,7 +2,7 @@
 
 ## About
 
-I developed this project during my internship at Siemens AG. Failure detection is based on the following papers:
+I developed this project during my internship at Siemens AG. The failure detection part is based on the following papers:
 
   * [The Failure Detector Abstraction](https://www.researchgate.net/publication/41939126_The_Failure_Detector_Abstraction)
   * [Scalable and Fault Tolerant Failure Detection and Consensus](https://www.researchgate.net/publication/299864842_Scalable_and_Fault_Tolerant_Failure_Detection_and_Consensus)
